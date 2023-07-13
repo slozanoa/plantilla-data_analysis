@@ -1,0 +1,7 @@
+name: plantilla-entorno-virtuar
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cookiecutter=1.7.3
+prefix: C:\Users\santi\anaconda3\envs\plantilla-entorno-virtuar
